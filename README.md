@@ -1,5 +1,5 @@
-# Getting Started with React App
-Extract zip folder
+# Getting Started with React App (clone the repo)
+git clone 
 
 # Mode inside project folder
 command - cd project name 
