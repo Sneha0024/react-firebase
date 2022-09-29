@@ -1,5 +1,5 @@
 # Getting Started with React App (clone the repo)
-git clone 
+command - git clone https://github.com/Sneha0024/react-firebase.git
 
 # Mode inside project folder
 command - cd project name 
